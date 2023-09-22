@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "robomaster_s1.h"
+#include "originbot_base/robomaster_s1.h"
 #ifdef __cplusplus
 extern "C"
 {
