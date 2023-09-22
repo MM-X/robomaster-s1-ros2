@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ***********************************************************************/
 
-#include "originbot_base/originbot_base.h"
+#include "originbot_base/robomaster_s1.h"
 
 OriginbotBase::OriginbotBase(std::string nodeName) : Node(nodeName)
 {
